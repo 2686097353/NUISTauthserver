@@ -128,7 +128,7 @@ url = "https://authserver.nuist.edu.cn/authserver/login?service=https%3A%2F%2Fi.
 
 # 创建一个字典，表示键值对
 params = {
-    'username': '202412492138',
+    'username': '2024XXXXXXXXXXXXXX',
     'password': encrypted_password,
     'captcha': result,
     '_eventId': 'submit',
