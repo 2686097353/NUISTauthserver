@@ -1,5 +1,5 @@
 ![image](https://github.com/user-attachments/assets/04226652-3881-4bbd-8177-035ef288d8f4)
-统一登录地址：https://i.nuist.edu.cn/index.html#/
+统一登录地址：https://i.nuist.edu.cn/
 
 
 
