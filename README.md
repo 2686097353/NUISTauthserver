@@ -13,7 +13,8 @@
 
 返回值为html源文件
 
-![img_2.png](img_2.png)
+![img_2](https://github.com/user-attachments/assets/b13beb0d-c16b-41f7-849c-0b3c7063f63d)
+
 
 从中获取两个隐藏信息execution，pwdEncryptSalt
 
@@ -27,7 +28,7 @@
 **2.获取验证码**
 
 利用上一步session构建的cookie去获取验证码，采用OCR识别验证码，验证码的请求中包含一个时间戳
-![img_3.png](img_3.png)
+![img_3](https://github.com/user-attachments/assets/f9e882b5-98d2-4ab9-9bad-cdb122106664)
 
 
 **3. 发起登录请求**
@@ -36,8 +37,10 @@
 
 `$("#saltPassword").val(encryptPassword($(LOGIN_PASSWORD_ID).val(), $("#pwdEncryptSalt").val()));`
 
-![img_4.png](img_4.png)
-![img_5.png](img_5.png)
+![img_4](https://github.com/user-attachments/assets/80a4cf09-1b42-4591-a2d6-62fb3012f736)
+
+![img_5](https://github.com/user-attachments/assets/69b4937b-8cae-4a1b-9726-be5fcb5fd1a9)
+
 
 直接把整个js文件复制下来，进行密码的加密
 
