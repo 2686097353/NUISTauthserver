@@ -1,4 +1,9 @@
+才发现https://github.com/InfinityWei/NUIST_HealthyReport_CAPTCHA作者已经之前写过，因此下面脚本废弃，有能力的同学可以研究一下南信研究生系统的加密
+
+
 ![image](https://github.com/user-attachments/assets/04226652-3881-4bbd-8177-035ef288d8f4)
+
+
 统一登录地址：https://i.nuist.edu.cn/
 
 
